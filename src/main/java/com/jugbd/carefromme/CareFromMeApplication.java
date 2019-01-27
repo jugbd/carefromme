@@ -1,13 +1,13 @@
-package com.jugbd.careforme;
+package com.jugbd.carefromme;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CareformeApplication {
+public class CareFromMeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CareformeApplication.class, args);
+        SpringApplication.run(CareFromMeApplication.class, args);
     }
 
 }
